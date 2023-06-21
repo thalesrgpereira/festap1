@@ -12,3 +12,7 @@ vídeos relacionados ao evento, para cativar ainda mais os visitantes e transmit
 atmosfera única do evento fictício
 
 https://thalesrgpereira.github.io/festap1
+
+>Equipe:
++  Thales
++  Enoque
